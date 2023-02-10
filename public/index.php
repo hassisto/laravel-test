@@ -5,6 +5,8 @@ use Illuminate\Http\Request;
 
 define('LARAVEL_START', microtime(true));
 
+// gitbub token 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
+
 /*
 |--------------------------------------------------------------------------
 | Check If The Application Is Under Maintenance
